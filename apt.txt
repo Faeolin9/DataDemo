@@ -22,3 +22,4 @@ libxdamage1
 libxtst6
 libxrandr2
 libdbus-1-3
+xvfb
