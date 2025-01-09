@@ -4,3 +4,4 @@ scikit-learn
 pandas
 pyvirtualdisplay
 keyboard
+jupyter-remote-desktop-proxy
